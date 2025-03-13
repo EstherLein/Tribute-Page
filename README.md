@@ -3,12 +3,12 @@ It features a timeline of key events in his life, an image, and links to more in
 
 ## Features:
 
-  -**Responsive Layout:** Adapts to different screen sizes
+  **-Responsive Layout:** Adapts to different screen sizes
   
-  -**Image & Caption:** Displays an image of Snape with a brief description
+  **-Image & Caption:** Displays an image of Snape with a brief description
   
-  -**Timeline:** Describes key moments in Snape's life
+  **-Timeline:** Describes key moments in Snape's life
   
-  -**External Link:** Directs to Snape's Wiki page
+  **-External Link:** Directs to Snape's Wiki page
 
   #### Check out the project here: [Live Demo](https://estherlein.github.io/Tribute-Page/)
