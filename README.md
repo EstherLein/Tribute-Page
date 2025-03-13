@@ -10,3 +10,5 @@ It features a timeline of key events in his life, an image, and links to more in
   -**Timeline:** Describes key moments in Snape's life
   
   -**External Link:** Directs to Snape's Wiki page
+
+  #### Check out the project here: [Live Demo](https://estherlein.github.io/Pokemon-Search-App/)
